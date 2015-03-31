@@ -57,7 +57,7 @@ When debugging am currently using:
 
 These settings will need to be optimized at some point.
 
-## Releaseing
+## Releasing
 
 These are the steps to release a new version of the plugin
 
